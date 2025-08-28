@@ -16,6 +16,7 @@
 .c
 {
     border: 5px solid green;
-    height: 100px;
-    width: 200px;
+    height: 150px;
+    width: 250px;
+    overflow: auto;
 }
