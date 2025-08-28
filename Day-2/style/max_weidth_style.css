@@ -1,0 +1,14 @@
+.a
+{
+    border: 5px solid green;
+    width: 400px;
+    margin: auto;
+}
+
+
+.b 
+{
+    border: 5px solid green;
+    max-width: 400px;
+    margin: auto;
+}
