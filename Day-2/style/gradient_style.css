@@ -1,0 +1,16 @@
+h1
+{
+    color: tomato;
+}
+
+h2
+{
+    color: rgb(17, 17, 238)
+}
+
+.a
+{
+    height: 500px;
+    width: 500px;
+    background: linear-gradient(rgba(255,0,0) 25%,green);
+}
