@@ -17,5 +17,10 @@ h2
 }
 p
 {
-    
+    color: brown;
+    border: 5px double blue;
+    border-radius: 50px;
+    text-transform: capitalize ;
+    text-indent: 25px;
+    word-spacing: 3px;
 }
