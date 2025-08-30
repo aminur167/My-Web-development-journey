@@ -12,7 +12,8 @@ h1
     color: white;
     margin: auto;
     position: relative;
-    transform: rotate(45deg);
+    transform: rotate(45deg); 
+    border-radius: 50%;
 }
 .box h3
 {
