@@ -1,0 +1,22 @@
+.box
+{
+    width: 200px;
+    height: 200px;
+    background-color: tomato;
+    margin: 100px auto;
+    position: relative;
+    animation-name: square;
+    animation-duration: 4s;
+}
+
+@keyframes square 
+{
+    0%{background-color: tomato;}
+    10%{background-color: blue;}
+    20%{background-color: white;}
+    15%{background-color: green;}
+    30%{background-color: aqua;}
+    15%{background-color: black;}
+    40%{background-color: yellow;}
+
+}
